@@ -1,0 +1,6 @@
+<students>
+    <student fullname="Anton" group="12" id="1"/>
+    <student fullname="And&amp;asd" group="1" id="2"/>
+    <student fullname="andas" group="3" id="4"/>
+    <student fullname="qw" group="0" id="5"/>
+</students>
